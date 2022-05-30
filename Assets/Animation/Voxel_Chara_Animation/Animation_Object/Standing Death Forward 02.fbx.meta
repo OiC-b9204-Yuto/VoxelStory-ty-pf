@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 5cde3d365eff49b4aa5ef5e4017f0e1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: armature
+    100002: chest
+    100004: foot.L
+    100006: foot.R
+    100008: forearm.L
+    100010: forearm.R
+    100012: Full
+    100014: hand.L
+    100016: hand.L_end
+    100018: hand.R
+    100020: hand.R_end
+    100022: head
+    100024: head_end
+    100026: heel.02.L
+    100028: heel.02.L_end
+    100030: heel.02.R
+    100032: heel.02.R_end
+    100034: heel.L
+    100036: heel.R
+    100038: hips
+    100040: neck
+    100042: shin.L
+    100044: shin.R
+    100046: shoulder.L
+    100048: shoulder.R
+    100050: spine
+    100052: //RootNode
+    100054: thigh.L
+    100056: thigh.R
+    100058: toe.L
+    100060: toe.L_end
+    100062: toe.R
+    100064: toe.R_end
+    100066: upper_arm.L
+    100068: upper_arm.R
+    400000: armature
+    400002: chest
+    400004: foot.L
+    400006: foot.R
+    400008: forearm.L
+    400010: forearm.R
+    400012: Full
+    400014: hand.L
+    400016: hand.L_end
+    400018: hand.R
+    400020: hand.R_end
+    400022: head
+    400024: head_end
+    400026: heel.02.L
+    400028: heel.02.L_end
+    400030: heel.02.R
+    400032: heel.02.R_end
+    400034: heel.L
+    400036: heel.R
+    400038: hips
+    400040: neck
+    400042: shin.L
+    400044: shin.R
+    400046: shoulder.L
+    400048: shoulder.R
+    400050: spine
+    400052: //RootNode
+    400054: thigh.L
+    400056: thigh.R
+    400058: toe.L
+    400060: toe.L_end
+    400062: toe.R
+    400064: toe.R_end
+    400066: upper_arm.L
+    400068: upper_arm.R
+    2100000: palette.001
+    4300000: Full
+    7400000: Death
+    9500000: //RootNode
+    13700000: Full
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 159
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
